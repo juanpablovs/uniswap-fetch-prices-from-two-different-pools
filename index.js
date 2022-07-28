@@ -2,7 +2,7 @@
 // first make sure that you have node installed
 // if you don't you can get it here: https://nodejs.org/
 
-// download index.js (this file) and package.json (make sure they are both together in the same directory)
+// download index.js (this file), gitignore and package.json (make sure they are both together in the same directory)
 // now open the terminal and type "npm install", this will install the dependencies (explained below)
 // to run the script type "node index.js"
 // to stop the file type Control + C in windows or Command + C in Mac
