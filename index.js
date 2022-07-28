@@ -7,7 +7,7 @@
 // to run the script type "node index.js"
 // to stop the file type Control + C in windows or Command + C in Mac
 
-// HERE ARE SOME PARAMETERS YOU CAN CHANGE SO YOU CAN MAKE TESTS
+// HERE ARE SOME PARAMETERS YOU CAN CHANGE SO YOU CAN CHANGE POOLS, SPEED AND CHAINS
 // this are the pool addresses, you need to have two of the same pair of tokens
 // you can find more pools here: https://info.uniswap.org/#/pools
 // the address is in the url of the pool, for example, this pool https://info.uniswap.org/#/pools/0x99ac8ca7087fa4a2a1fb6357269965a2014abc35 has this address 0x99ac8ca7087fa4a2a1fb6357269965a2014abc35
