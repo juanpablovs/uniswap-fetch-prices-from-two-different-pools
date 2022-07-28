@@ -24,9 +24,15 @@ Because the same two tokens operate in two different and independent pools their
 
 So if, for example, in one pool the price is 25,000 and in the other 25,250 you have an opportunity to do arbitrage, buy in the cheaper one and sell in the expensive one at the same time, that is what arbitrage does
 
+You can test this with WBTC / USDC or with many more pairs on Uniswap, here is a list of pools:
+https://info.uniswap.org/#/pools
 
+Just remember to pick two pools with the same tokens, so you are comparing the price of the same token in two pools
+
+IMPORTANT!
 By the way, for this first step you do not need any private information. This script is only about querying two pools that operate the same tokens and comparing their prices to find trading opportunities -- that's all
 
-The javascript file is heavily commented so you understand all that is going on
+
+The javascript file is heavily commented so you can fully understand all that is going on and hopefully soon can change it and make your own thing
 
 I hope you find this useful!
