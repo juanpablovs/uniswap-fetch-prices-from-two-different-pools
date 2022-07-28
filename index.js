@@ -1,6 +1,6 @@
 // IMPORTANT! things you have to do to make it work
 // first make sure that you have node installed
-// if you don't you can get it here: https://nodejs.org/es/
+// if you don't you can get it here: https://nodejs.org/
 
 // download index.js (this file) and package.json (make sure they are both together in the same directory)
 // now open the terminal and type "npm install", this will install the dependencies (explained below)
