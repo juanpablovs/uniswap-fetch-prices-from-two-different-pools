@@ -8,7 +8,7 @@
 // to stop the file type Control + C in windows or Command + C in Mac
 
 // HERE ARE SOME PARAMETERS YOU CAN CHANGE SO YOU CAN CHANGE POOLS, SPEED AND CHAINS
-// this are the pool addresses, you need to have two of the same pair of tokens
+// these are the pool addresses, you need to have two of the same pair of tokens
 // you can find more pools here: https://info.uniswap.org/#/pools
 // the address is in the url of the pool, for example, this pool https://info.uniswap.org/#/pools/0x99ac8ca7087fa4a2a1fb6357269965a2014abc35 has this address 0x99ac8ca7087fa4a2a1fb6357269965a2014abc35
 const poolAddresses = [
@@ -22,7 +22,7 @@ frequency = 1000;
 // We need to specify in which chain are we going to be looking for the tokens, ethereum mainnet is number one, other testnets have different numbers, for example ropsten = 3, etc.
 const chainId = 1;
 
-// BELOW THIS LINE YOU HAVE AN EXPLANATION OF HOW THE CODE WORKS AND WHAT IT DOES, IF YOU WANT TO GO INTO THIS I SUGGEST YOU START READING AT THE BOTTOM
+// BELOW THIS LINE YOU HAVE AN EXPLANATION OF HOW THE CODE WORKS AND WHAT IT DOES, IF YOU WANT TO GO INTO THIS I SUGGEST YOU START READING FROM THE BOTTOM
 // --------------------------------
 
 // To run this script we need three dependencies:
