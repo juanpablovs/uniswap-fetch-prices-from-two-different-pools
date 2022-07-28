@@ -2,12 +2,12 @@
 // first make sure that you have node installed
 // if you don't you can get it here: https://nodejs.org/
 
-// download index.js (this file), gitignore and package.json (make sure they are both together in the same directory)
+// download index.js (this file), gitignore and package.json (make sure they are all together in the same directory)
 // now open the terminal and type "npm install", this will install the dependencies (explained below)
 // to run the script type "node index.js"
 // to stop the file type Control + C in windows or Command + C in Mac
 
-// HERE ARE SOME PARAMETERS YOU CAN CHANGE SO YOU CAN CHANGE POOLS, SPEED AND CHAINS
+// HERE ARE SOME PARAMETERS THAT YOU CAN CHANGE SO YOU CAN CHANGE POOLS, SPEED AND CHAINS
 // these are the pool addresses, you need to have two of the same pair of tokens
 // you can find more pools here: https://info.uniswap.org/#/pools
 // the address is in the url of the pool, for example, this pool https://info.uniswap.org/#/pools/0x99ac8ca7087fa4a2a1fb6357269965a2014abc35 has this address 0x99ac8ca7087fa4a2a1fb6357269965a2014abc35
